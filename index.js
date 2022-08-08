@@ -1,5 +1,6 @@
 
-
+var name = prompt("what's your name ?😊");
+alert("Welcome !! "+ name +"😎 Please leave a feedback on Whatsapp");
 var but = document.querySelectorAll(".drum").length;
 
 for(var i=0; i<but ;i++){
